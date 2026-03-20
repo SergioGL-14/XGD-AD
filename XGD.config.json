@@ -1,0 +1,33 @@
+﻿{
+    "UiTitle":  "XGD - Utilidad general AD",
+    "Server":  "",
+    "GroupSearchBases":  {
+
+                         },
+    "GroupNameFilter":  "*",
+    "ExploreSearchBases":  {
+
+                           },
+    "BrowseRoots":  {
+
+                    },
+    "ComputerContainerName":  "Equipos",
+    "HiddenOUSegments":  "Equipos",
+    "ExcludedOUPatterns":  [
+                               "_Cuentas deshabilitadas",
+                               "Transito",
+                               "Pre-Windows 10"
+                           ],
+    "ExcludedComputerNameRegex":  "",
+    "FilteredComputerLabel":  "Anadir Equipos Filtrados",
+    "FilteredComputerIncludeRegex":  "",
+    "ApplyDelegationOnCreate":  false,
+    "DelegationGroupDN":  "",
+    "CreatedComputerDescriptionTemplate":  "Equipo creado {date}",
+    "FixedTargetGroups":  {
+
+                          },
+    "SavedWorkOUs":  {
+
+                     }
+}
